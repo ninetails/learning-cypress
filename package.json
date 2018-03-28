@@ -1,0 +1,20 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "Getting started for cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninetails/learning-cypress.git"
+  },
+  "keywords": [],
+  "author": "Carlos Kazuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninetails/learning-cypress/issues"
+  },
+  "homepage": "https://github.com/ninetails/learning-cypress#readme"
+}
