@@ -4,6 +4,7 @@
   "description": "Getting started for cypress.io",
   "main": "index.js",
   "scripts": {
+    "cypress:open": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ninetails/learning-cypress/issues"
   },
-  "homepage": "https://github.com/ninetails/learning-cypress#readme"
+  "homepage": "https://github.com/ninetails/learning-cypress#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
 }
